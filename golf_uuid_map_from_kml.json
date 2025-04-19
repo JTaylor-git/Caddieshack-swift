@@ -1,0 +1,200 @@
+[
+  {
+    "id": "7dd0c55c-d331-5ff4-96ae-29734bcd364b",
+    "course": "Unknown",
+    "hole": 1,
+    "tee": {
+      "lat": 30.199763119976,
+      "lon": -81.399570339957
+    },
+    "pin": null,
+    "targets": []
+  },
+  {
+    "id": "179def55-a19a-5e96-aeca-093b897a9ffb",
+    "course": "Unknown",
+    "hole": 2,
+    "tee": {
+      "lat": 30.194819419482,
+      "lon": -81.399321939932
+    },
+    "pin": null,
+    "targets": []
+  },
+  {
+    "id": "5f17f3a8-11d6-5680-b092-03c5b73e1cfe",
+    "course": "Unknown",
+    "hole": 3,
+    "tee": {
+      "lat": 30.194185819419,
+      "lon": -81.39660033966
+    },
+    "pin": null,
+    "targets": []
+  },
+  {
+    "id": "5bd19812-f19c-5c8a-b4f7-f7963ac185c2",
+    "course": "Unknown",
+    "hole": 4,
+    "tee": {
+      "lat": 30.191412019141,
+      "lon": -81.39910053991
+    },
+    "pin": null,
+    "targets": []
+  },
+  {
+    "id": "9d42e7d7-0d90-5717-a8b8-dd02bc250b61",
+    "course": "Unknown",
+    "hole": 5,
+    "tee": {
+      "lat": 30.189819018982,
+      "lon": -81.39540243954
+    },
+    "pin": null,
+    "targets": []
+  },
+  {
+    "id": "61e22c07-d8cb-53a6-a7aa-0b2653a69fc6",
+    "course": "Unknown",
+    "hole": 6,
+    "tee": {
+      "lat": 30.187686918769,
+      "lon": -81.394620339462
+    },
+    "pin": null,
+    "targets": []
+  },
+  {
+    "id": "894343ef-b416-50a8-93c2-935bf560dcdd",
+    "course": "Unknown",
+    "hole": 7,
+    "tee": {
+      "lat": 30.18950311895,
+      "lon": -81.399027639903
+    },
+    "pin": null,
+    "targets": []
+  },
+  {
+    "id": "4bd299da-a270-5be9-9902-544f75705225",
+    "course": "Unknown",
+    "hole": 8,
+    "tee": {
+      "lat": 30.191922319192,
+      "lon": -81.400994140099
+    },
+    "pin": null,
+    "targets": []
+  },
+  {
+    "id": "f7db38b6-ee51-5c00-b4d9-af6c7be8d390",
+    "course": "Unknown",
+    "hole": 9,
+    "tee": {
+      "lat": 30.196428619643,
+      "lon": -81.401841940184
+    },
+    "pin": null,
+    "targets": []
+  },
+  {
+    "id": "bbb47e89-2c9d-572d-9358-a45ada5f376f",
+    "course": "Unknown",
+    "hole": 10,
+    "tee": {
+      "lat": 30.201030320103,
+      "lon": -81.399181539918
+    },
+    "pin": null,
+    "targets": []
+  },
+  {
+    "id": "9bb0ef17-363e-5e47-ae34-5c3b46a785ec",
+    "course": "Unknown",
+    "hole": 11,
+    "tee": {
+      "lat": 30.205405220541,
+      "lon": -81.3979998398
+    },
+    "pin": null,
+    "targets": []
+  },
+  {
+    "id": "95b854e4-f858-535b-b29d-e94b5e20171b",
+    "course": "Unknown",
+    "hole": 12,
+    "tee": {
+      "lat": 30.207815420782,
+      "lon": -81.397421139742
+    },
+    "pin": null,
+    "targets": []
+  },
+  {
+    "id": "cd8bb415-09e0-5c30-af1f-98ad9d2f26a3",
+    "course": "Unknown",
+    "hole": 13,
+    "tee": {
+      "lat": 30.207486020749,
+      "lon": -81.401472040147
+    },
+    "pin": null,
+    "targets": []
+  },
+  {
+    "id": "e803acbf-ea1f-50f5-808d-10df961ce47f",
+    "course": "Unknown",
+    "hole": 14,
+    "tee": {
+      "lat": 30.210923121092,
+      "lon": -81.399439839944
+    },
+    "pin": null,
+    "targets": []
+  },
+  {
+    "id": "d274c711-8cf2-5ad7-87ae-dc0a91384c92",
+    "course": "Unknown",
+    "hole": 15,
+    "tee": {
+      "lat": 30.213993921399,
+      "lon": -81.400763740076
+    },
+    "pin": null,
+    "targets": []
+  },
+  {
+    "id": "5fd29f4d-6a16-5d58-89a5-68b87dda90c1",
+    "course": "Unknown",
+    "hole": 16,
+    "tee": {
+      "lat": 30.215831721583,
+      "lon": -81.404568040457
+    },
+    "pin": null,
+    "targets": []
+  },
+  {
+    "id": "3fb08267-eea0-52da-9d7b-b839c48f66cf",
+    "course": "Unknown",
+    "hole": 17,
+    "tee": {
+      "lat": 30.20980442098,
+      "lon": -81.405510340551
+    },
+    "pin": null,
+    "targets": []
+  },
+  {
+    "id": "fc02264b-307b-51dd-953c-4250c2862a02",
+    "course": "Unknown",
+    "hole": 18,
+    "tee": {
+      "lat": 30.204782420478,
+      "lon": -81.401386540139
+    },
+    "pin": null,
+    "targets": []
+  }
+]
